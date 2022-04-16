@@ -1,4 +1,4 @@
-# Heroku Deplo
+# Heroku Deploy
 
 https://adl-heroku-deploy.herokuapp.com
 
